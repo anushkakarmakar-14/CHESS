@@ -3,7 +3,7 @@ A fully functional 2-player Chess game built using HTML, CSS, and Vanilla JavaSc
 
 ## 📸 Live Demo
 
-🔗 [Play the Chess Game](https://6zs1cvmj-5502.inc1.devtunnels.ms/)
+🔗 [Play the Chess Game]( https://anushkakarmakar-14.github.io/CHESS/)
 
 🚀 Features
 ✅ Interactive 8x8 chessboard
